@@ -65,6 +65,14 @@ truffle test
 npm run dev
 ```
 
+## SEE ON RINKEBY TESTNET
+
+The project is deployed to Rinkeby testnet:
+
+Link to etherscan : https://rinkeby.etherscan.io/address/0xf25b247cfbe2a6f0970d29dc4e2863744b29d20e
+Contract creator: 0x5FF1DEc90Df7eD70AbE8073876074bcCCA471280
+Transaction hash: 0x9c2c66c4339da037e1f410c8ef90b0d16060d11714cc77ee9675474b7a879aad
+
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
