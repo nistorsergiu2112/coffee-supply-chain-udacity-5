@@ -1,6 +1,6 @@
 # Coffee Supply Chain - Blockchain Development
 
-This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
+This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received. ***This project is deployed to Rinkeby testnet*** see below
 
 I've wrote 11 tests including role asigning to test the entire flow of the application using **Mocha** and **Chai**.
 
@@ -69,9 +69,9 @@ npm run dev
 
 The project is deployed to Rinkeby testnet:
 
-Link to etherscan : https://rinkeby.etherscan.io/address/0xf25b247cfbe2a6f0970d29dc4e2863744b29d20e
-Contract creator: 0x5FF1DEc90Df7eD70AbE8073876074bcCCA471280
-Transaction hash: 0x9c2c66c4339da037e1f410c8ef90b0d16060d11714cc77ee9675474b7a879aad
+* Link to etherscan : https://rinkeby.etherscan.io/address/0xf25b247cfbe2a6f0970d29dc4e2863744b29d20e
+* Contract creator: 0x5FF1DEc90Df7eD70AbE8073876074bcCCA471280
+* Transaction hash: 0x9c2c66c4339da037e1f410c8ef90b0d16060d11714cc77ee9675474b7a879aad
 
 ## Built With
 
