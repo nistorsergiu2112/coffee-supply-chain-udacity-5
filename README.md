@@ -8,19 +8,19 @@ I've also included 4 UML diagrams for clarity:
 
 Activity Diagram
 
-![UML_1](UML/Activity diagram - Coffee Supply Chain Blockchain.jpeg)
+![UML_1](UML/activity-diagram.jpeg)
 
 Classes Diagram
 
-![UML_2](UML/UML-Classes.svg)
+![UML_2](UML/class-diagram.svg)
 
 Sequence Diagram
 
-![UML_3](UML/Sequence diagram - .svg)
+![UML_3](UML/sequence-diagram.svg)
 
 State Diagram
 
-![UML_$](UML/State Chart - Coffee supply chain - Current.svg)
+![UML_$](UML/state-diagram.svg)
 
 ## Getting Started
 
